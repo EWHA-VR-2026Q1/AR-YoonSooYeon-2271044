@@ -611,14 +611,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Astronaut
+  mTrackableName: 360B305F-2916-4407-BE46-736D873E2EB2_1_105_c
   mInitializedInEditor: 1
   mDataSetPath: 
-  mAspectRatio: 1.7285156
+  mAspectRatio: 0.6666667
   mImageTargetType: 3
-  mWidth: 0.11570621
-  mHeight: 0.2
-  mRuntimeTexture: {fileID: 2800000, guid: f0d9bcb0daf31468385cd551f205df5a, type: 3}
+  mWidth: 0.2
+  mHeight: 0.13333334
+  mRuntimeTexture: {fileID: 2800000, guid: 32d38bd06c6704cb4a49b33bd4142100, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -653,7 +653,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1798671378}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Astronaut
+  mTargetName: 360B305F-2916-4407-BE46-736D873E2EB2_1_105_c
   mDatasetName: 
   mCastedBehaviour: {fileID: 1798671378}
   mMeshFilter: {fileID: 0}
